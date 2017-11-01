@@ -1,0 +1,22 @@
+/* tasarım */
+.food {
+	color: black;
+	background-color: gray;
+	margin: 5px;
+	padding: 8px;
+}
+
+.food a {
+	color: white;
+}
+
+.navbar-brand {
+	color: black !important;
+}
+
+.navbar-nav li:hover {
+	color: #555;
+    background-color: #e7e7e7;
+}
+
+
